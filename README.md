@@ -1,3 +1,4 @@
+![Basic Good Vibes Email Header](https://user-images.githubusercontent.com/50931423/117998379-d7b96700-b311-11eb-8ce7-8c1a682824a8.png)
 ### Hi there ✨
 
 - 🔭 I’m currently working on a yoga app called SeekingPeace 🧘🏾‍♀️
