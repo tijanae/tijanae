@@ -2,7 +2,7 @@
 ### Hi there ✨
 
 - 🔭 I’m currently working on a yoga app called SeekingPeace 🧘🏾‍♀️
-- 🌱 I’m currently learning swift & objective C
+- 🌱 I’m currently learning swift, objective C, & RxSwift
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: the moon gets earthquakes! (moonquakes)
 
